@@ -1,0 +1,4 @@
+1. A deep inverse reinforcement learning approach to route choice partc 2023
+使用IRL避免不知道reward的尴尬情况，有代码
+2. TrajGail partc 2021
+使用GAIL而不是传统方法进行轨迹生成，有代码，有数据集，手机GPS数据
